@@ -17,14 +17,9 @@ Here are some ideas to get you started:
 
 My name is Yu Zhang (張宇 in traditional Chinese, or 张宇 in simplified Chinese).
 
-I'm currently a postgraduate student at [SUDA-HLT](http://hlt.suda.edu.cn), advised by [Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
-
-My research interests include sequence labeling, syntactic (dependency/constituency) parsing, and semantic parsing, etc.
+- 🔭 I'm currently a postgraduate student at [SUDA-HLT](http://hlt.suda.edu.cn), advised by [Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
+- 🌱 My research interests include sequence labeling, syntactic (dependency/constituency) parsing, and semantic parsing, etc.
 - 📫 How to reach me: [outlook](mailto:yzhang.cs@outlook.com), [foxmail](mailto:yzhang.cs@foxmail.com).
 
-<a href="https://github.com/yzhangcs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yzhangcs&count_private=true" />
-</a>
-<a href="https://github.com/yzhangcs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzhangcs&hide=HTML,PostScript" />
-</a>
+[![Yu Zhang's github stats](https://github-readme-stats.vercel.app/api?username=yzhangcs&hide=issues&show_icons=true)](https://github.com/yzhangcs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhangcs&layout=compact)](https://github.com/yzhangcs)
