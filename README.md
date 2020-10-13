@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yu Zhang ([jy tʃɑŋ], 張宇/张宇 in traditional/simplified Chinese).
+My name is **Yu Zhang** ([jy tʃɑŋ], **張宇**/**张宇** in traditional/simplified Chinese).
 
 - 🔭 I'm currently a third-year Master student at [SUDA-HLT](http://hlt.suda.edu.cn), fortunately advised by [Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
 - 🌱 My research interests include sequence labeling, syntactic (dependency/constituency) parsing, and semantic parsing, etc.
