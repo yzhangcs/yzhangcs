@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is **Yu Zhang** ([jy tʃɑŋ], **張宇**/**张宇** in traditional/simplified Chinese).
 
-- 🔭 I'm currently a third-year Master student at [SUDA-HLT](http://hlt.suda.edu.cn), fortunately advised by [Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
+- 🔭 I'm currently a first-year PhD student at [SUDA-HLT](http://hlt.suda.edu.cn), fortunately advised by [Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
 - 🌱 My main research interest focuses on structured prediction, e.g., sequence labeling, syntactic (dependency/constituency) parsing, and semantic parsing, etc.
 - 📫 You can reach me via [outlook](mailto:yzhang.cs@outlook.com) and [foxmail](mailto:yzhang.cs@foxmail.com).
 
