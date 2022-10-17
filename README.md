@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=yzhangcs)
+[![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=y3JK-1oAAAAJ)
+[![](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F49890808%3Ffields%3DcitationCount&color=d6d6d6&style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/author/Yu-Zhang/49890808)
+[![](https://img.shields.io/github/stars/yzhangcs?style=flat-square&logo=github&label=stars)](https://github.com/yzhangcs)
+[![](https://komarev.com/ghpvc/?username=yzhangcs&style=flat-square)](https://github.com/yzhangcs)
 
 My name is **Yu Zhang** ([jy tʃɑŋ], **張宇**/**张宇** in traditional/simplified Chinese).
 
