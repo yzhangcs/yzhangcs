@@ -25,5 +25,7 @@ My name is **Yu Zhang** ([jy tʃɑŋ], **張宇**/**张宇** in traditional/simp
 - 🌱 My main research interest focuses on structured prediction, e.g., sequence labeling, syntactic (dependency/constituency) parsing, and semantic parsing, etc.
 - 📫 You can reach me via [outlook](mailto:yzhang.cs@outlook.com) and [foxmail](mailto:yzhang.cs@foxmail.com).
 
+<!-- 
 [![Yu Zhang's github stats](https://github-readme-stats.vercel.app/api?username=yzhangcs&hide=issues&show_icons=true)](https://github.com/yzhangcs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhangcs&layout=compact)](https://github.com/yzhangcs)
+-->
