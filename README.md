@@ -29,3 +29,10 @@ My name is **Yu Zhang** ([jy tʃɑŋ], **張宇**/**张宇** in traditional/simp
 [![Yu Zhang's github stats](https://github-readme-stats.vercel.app/api?username=yzhangcs&hide=issues&show_icons=true)](https://github.com/yzhangcs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhangcs&layout=compact)](https://github.com/yzhangcs)
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzhangcs/yzhangcs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzhangcs/yzhangcs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yzhangcs/yzhangcs/output/github-contribution-grid-snake.svg">
+</picture>
+
