@@ -21,14 +21,9 @@ Here are some ideas to get you started:
 
 My name is **Yu Zhang** ([jy tʃɑŋ], **張宇**/**张宇** in traditional/simplified Chinese).
 
-- 🔭 I'm currently a first-year PhD student at [SUDA-HLT](http://hlt.suda.edu.cn), fortunately advised by [Zhenghua Li](http://hlt.suda.edu.cn/~zhli).
-- 🌱 My main research interest focuses on structured prediction, e.g., sequence labeling, syntactic (dependency/constituency) parsing, and semantic parsing, etc.
-- 📫 You can reach me via [outlook](mailto:yzhang.cs@outlook.com) and [foxmail](mailto:yzhang.cs@foxmail.com).
+I am currently a third-year PhD student at HLT@SUDA, advised by Prof. Guohong Fu. I expect to graduate in 2025. Prior to this, I received my M. Eng. degree from Soochow University in 2021.
 
-<!-- 
-[![Yu Zhang's github stats](https://github-readme-stats.vercel.app/api?username=yzhangcs&hide=issues&show_icons=true)](https://github.com/yzhangcs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhangcs&layout=compact)](https://github.com/yzhangcs)
--->
+My early research focused on structured prediction tasks, specifically dependency parsing and constituency parsing. Currently, my research interests have evolved to focus on developing efficient text generation models. I am particularly intrigued by the prospect of developing hardware-efficient methods for linear-time sequence modeling. As a disciple of parallel programming, I am passionate about exploring techniques that harness the power of parallel computing to develop scalable subquadratic models.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzhangcs/yzhangcs/output/github-contribution-grid-snake-dark.svg">
